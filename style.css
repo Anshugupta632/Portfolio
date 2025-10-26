@@ -119,6 +119,14 @@ section{
   margin-bottom: 1.3rem;
 }
 
+.home-content p{
+  font-size: 1.8rem;
+  font-weight: 400;
+  margin-bottom: 2.5rem;
+  color: rgb(200, 200, 200);
+  line-height: 1.6;
+}
+
 span {
   color: rgb(167, 19, 19);
 }
@@ -263,4 +271,5 @@ span {
   .home-img img{
     margin-top: 4rem;
   }
+
 }
